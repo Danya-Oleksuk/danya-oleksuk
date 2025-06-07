@@ -2,17 +2,6 @@
 
 Hi! I'm a self-taught Python Backend Developer. I just really love to code — it’s like playing with logic and building cool things at the same time. I enjoy making my code clean and easy to understand, and I always think about how to make it work well even when many people use it. It makes me happy when something I build helps others or solves a real problem.
 
-🚀 What I Do
-
-🧱 Backend Development: Building and maintaining scalable APIs and web applications with Django.
-
-⚙️ Task Automation: Implementing background processing using Celery and Redis.
-
-🗄️ Databases: Working with both relational (PostgreSQL) and non-relational (MongoDB) databases.
-
-🐳 DevOps Familiarity: Experience with Docker, Git, and Linux environments.
-
-🔍 Clean Code & Testing: Focused on writing readable, maintainable code and ensuring quality with proper testing/debugging.
 
 
 
