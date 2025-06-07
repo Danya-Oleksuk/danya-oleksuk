@@ -1,6 +1,6 @@
 ## 👋 Hi there! Welcome to my GitHub profile
 
-I'm a self-taught Python Backend Developer with a strong passion for clean code, scalability, and real-world impact. 
+Hi! I'm a self-taught Python Backend Developer. I just really love to code — it’s like playing with logic and building cool things at the same time. I enjoy making my code clean and easy to understand, and I always think about how to make it work well even when many people use it. It makes me happy when something I build helps others or solves a real problem.
 
 🚀 What I Do
 
